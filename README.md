@@ -2,76 +2,47 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:262626&height=120&section=header"/>
 
-<br>
+## Hi there! 👋 I'm Muhamad Rivan Sahronie
+### Web Developer · Cloud Enthusiast · Indonesia 🇮🇩
 
-`Front-end Developer` . `Cloud Enthusiast` · `Indonesia 🇮🇩`
-
-<br>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://rivan.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamadrivansahronie)
-[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhamadrivansahronie@gmail.com)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 🚀 Building **clean & scalable web applications**
-- ⚛️ Specialized in **React ecosystem**
-- 🎨 Strong focus on **UI/UX & smooth interactions**
-- 🌱 Currently exploring **Next.js (Fullstack)** & **Docker**
-- 💡 Love solving real-world problems with code
-
----
-
-## 🛠 Tech Stack
-
-<div align="center">
-
-![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=next.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-111111?style=for-the-badge&logo=laravel&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-111111?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rrivnsh&theme=github_dark" />
-
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rrivnsh&theme=github_dark" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square&logo=vercel&logoColor=white)](https://rivan.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamadrivansahronie)
+[![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white)](mailto:muhamadrivansahronie@gmail.com)
 
 <br>
 
-<img height="180" src="https://streak-stats.demolab.com?user=rrivnsh&theme=github-dark-blue&hide_border=true" />
+*Building **clean & scalable web applications**, specializing in modern web technologies. Currently exploring **Next.js** and **Cloud Infrastructure** to solve real-world problems with code.*
 
-</div>
+<br><br>
 
----
+### 🛠 Tech Stack
 
-## 🐍 Contribution Snake
+![React](https://img.shields.io/badge/-React-111111?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-111111?style=flat-square&logo=next.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-111111?style=flat-square&logo=laravel&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-111111?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-111111?style=flat-square&logo=javascript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-111111?style=flat-square&logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-111111?style=flat-square&logo=node.js&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-111111?style=flat-square&logo=docker&logoColor=white)
 
-<div align="center">
+<br><br>
 
-<img src="https://raw.githubusercontent.com/rrivnsh/rrivnsh/output/github-contribution-grid-snake-dark.svg" />
+### 📈 GitHub Analytics
 
-</div>
+<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rrivnsh&theme=github_dark" />
+<img height="160" src="https://streak-stats.demolab.com?user=rrivnsh&theme=github-dark-blue&hide_border=true" />
 
----
+<br><br>
 
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rrivnsh/rrivnsh/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rrivnsh/rrivnsh/output/github-contribution-grid-snake.svg">
+</picture>
 
-![Profile Views](https://komarev.com/ghpvc/?username=rrivnsh&style=for-the-badge&color=111111)
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=rrivnsh&style=flat-square&color=111111)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:262626,100:0d0d0d&height=100&section=footer"/>
 
