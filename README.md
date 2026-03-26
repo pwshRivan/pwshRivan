@@ -2,11 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:262626&height=120&section=header"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?color=FFFFFF&size=28&center=true&vCenter=true&width=700&lines=Hi+I'm+Muhamad+Rivan+Sahronie;Frontend+Focused+Web+Developer;React+%7C+Next.js+%7C+Laravel;Building+Clean+%26+Scalable+Web+Applications" />
-
 <br>
 
-`Web Developer` · `Indonesia 🇮🇩`
+`Front-end Developer` . `Cloud Enthusiast` · `Indonesia 🇮🇩`
 
 <br>
 
