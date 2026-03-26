@@ -11,9 +11,16 @@
 
 <br>
 
-*Building **clean & scalable web applications**, specializing in modern web technologies. Currently exploring **Next.js** and **Cloud Infrastructure** to solve real-world problems with code.*
+</div>
 
-<br><br>
+- 🚀 Building **clean & scalable web applications**
+- 💻 Specializing in **modern web technologies**
+- 🌱 Currently exploring **Next.js** and **Cloud Infrastructure**
+- 💡 Solving real-world problems with code
+
+<br>
+
+<div align="center">
 
 ### 🛠 Tech Stack
 
@@ -32,13 +39,6 @@
 
 <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rrivnsh&theme=github_dark" />
 <img height="160" src="https://streak-stats.demolab.com?user=rrivnsh&theme=github-dark-blue&hide_border=true" />
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rrivnsh/rrivnsh/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rrivnsh/rrivnsh/output/github-contribution-grid-snake.svg">
-</picture>
 
 <br><br>
 
