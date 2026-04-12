@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:262626&height=120&section=header"/>
-
 ## Hi there! 👋 I'm Muhamad Rivan Sahronie
 ### Web Developer · Cloud Enthusiast · Indonesia 🇮🇩
 
@@ -35,15 +33,6 @@
 
 <br><br>
 
-### 📈 GitHub Analytics
-
-<img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rrivnsh&theme=github_dark" />
-<img height="160" src="https://streak-stats.demolab.com?user=rrivnsh&theme=github-dark-blue&hide_border=true" />
-
-<br><br>
-
 ![Profile Views](https://komarev.com/ghpvc/?username=rrivnsh&style=flat-square&color=111111)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:262626,100:0d0d0d&height=100&section=footer"/>
 
 </div>
