@@ -31,7 +31,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-111111?style=flat-square&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-111111?style=flat-square&logo=docker&logoColor=white)
 
-<br><br>
+<br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rrivnsh&style=flat-square&color=111111)
 
